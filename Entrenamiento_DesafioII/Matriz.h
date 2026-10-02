@@ -7,7 +7,7 @@
 using namespace std;
 
 class Matriz{
-private:
+public:
     Lista<float>* filas;  // arreglo dinámico de listas
     int N; // número de filas
     int M; // número de columnas

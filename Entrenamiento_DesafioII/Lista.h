@@ -8,7 +8,7 @@ using namespace std;
 
 template <typename T>
 class Lista {
-private:
+public:
     Nodo<T>* head;  // primer nodo
     int size;       // tamaño
 

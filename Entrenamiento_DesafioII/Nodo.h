@@ -7,6 +7,7 @@ public:
     T data;
     Nodo<T>* ptrNext;
 
+public:
     Nodo(T value) {
         data = value;
         ptrNext = nullptr;
