@@ -16,6 +16,8 @@ int main()
     cout << "\nDespues de eliminar fila 1:\n";
     mat.imprimir();
 
+    int i=34;
+
     return 0;
 
 }
