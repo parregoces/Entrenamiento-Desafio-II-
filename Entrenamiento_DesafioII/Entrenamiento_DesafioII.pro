@@ -13,4 +13,4 @@ HEADERS += \
     Nodo.h
 
 DISTFILES += \
-    data.txt
+    data2.txt
